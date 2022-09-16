@@ -1,18 +1,18 @@
 [![MasterHead](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)](https://github.com/ShimonSamay)
-<h1 align="center">Hi ✌, I'm Shimon Samay</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h1 align="center">Hi Everyone , I'm Shimon Samay ✌</h1>
+<h3 align="center"> 💻 A Enthusiastic Full Stack Developer 💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimonsamay&label=Profile%20views&color=0e75b6&style=flat" alt="shimonsamay"/> </p>
 
-- 🎯 **Currently working on more personal projects and expanding my knowledge**
-- 📈 **Loves to build things from scratch and watch them evolve**
-- 🏠 **Living at Netanya , Israel**
+- 🎯 **Currently working on more personal projects and expanding my knowledge** 🎯
+- 📈 **Loves to build things from scratch and watch them evolve** 📈
+- 🌍 **Living at Netanya , Israel** 🌍
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can reach me here :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shimon-samay-363a27217/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="mailto:shimonsamay7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shimon-samay-363a27217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="mailto:shimonsamay7@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/g-mail-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
